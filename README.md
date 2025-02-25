@@ -2,10 +2,11 @@
 
 <!--
 **insidedin/insidedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I'm Andini, Front-End Mobile and Web Developer | Tech Enthusiast
+I'm Andini, Front-End Mobile and Web Developer | Tech Enthusiast 
 
 - 🌱 I’m currently learning Flutter and Laravel
 - 🔭 Long Life Learner
+- 🔋 Coder
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insidedin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andinirahmatillah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@insidedin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@insidedini) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/studywithdin) 
