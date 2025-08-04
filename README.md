@@ -2,7 +2,7 @@
 
 <!--
 **insidedin/insidedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I'm Andini, Junior Front-End Mobile and Web Developer | Tech Enthusiast 
+I'm Andini, Front-End Mobile and Web Developer | Tech Enthusiast 
 
 - 🌱 I’m currently learning Flutter and Laravel
 - 🔭 Long Life Learner
