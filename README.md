@@ -6,7 +6,7 @@ I'm Andini, Junior Front-End Mobile and Web Developer | Tech Enthusiast
 
 - 🌱 I’m currently learning Flutter and Laravel
 - 🔭 Long Life Learner
-- 🔋 Coderr
+- 🔋 Coder
 - ✨ Programming 
   
 ## 🌐 Socials:
